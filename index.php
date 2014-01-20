@@ -7,9 +7,8 @@
 		<title>Late Meal</title>
 	</head>
 	
-	<body background="images/wood.jpg" bgcolor=#643B0F>
-	<?php include("header.php") ?>
-	<?php include("footer.php") ?>
+	<body>
+	Hello
 	</body>
 	
 </html>
